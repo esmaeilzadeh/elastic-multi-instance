@@ -1,5 +1,5 @@
 # elastic-multi-instance
-This zero config shell script helps you to setup 3 instance (1 master with two replica) of elastic search on a single machine with using 2 upstart config files.
+This zero config shell script helps you to setup 3 instances (1 master with two replica) of elastic search on a single machine with using 2 upstart config files.
 #configure multiple service of elasticserver on a single machine:
 sudo ./install.sh
 #configure ip table for restrict access to elastic search port:
