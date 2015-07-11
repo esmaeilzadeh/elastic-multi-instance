@@ -1,0 +1,4 @@
+cluster.name: brandecide_elastic
+node.name: "elastic1"
+http.port: 9200
+discovery.zen.minimum_master_nodes: 2
